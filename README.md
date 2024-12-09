@@ -129,8 +129,9 @@ Errors and omissions are accepted!
 ## 🤖 Credits
 
 Built with ❤️ by a passionate team of developers. 
-The one and only [Abdul Ahad (Null and Void)], [Touqeer Ahmed (Mr. Snoop)] and [Mr. Faizan (The creative guy.)]
+The one and only **Abdul Ahad (Null and Void)**, **Touqeer Ahmed (Mr. Snoop)** and **Mr. Faizan (The creative guy.)**
 Graphics powered by **SFML** and **GLUT**.  
 Algorithms inspired by cutting-edge pathfinding techniques.
 
 Feel free to **fork**, **contribute**, or **share your thoughts**! 🌟
+And if you are going to clone the repositery without credits, **v will see u in hell(corporate).**

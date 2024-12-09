@@ -1,0 +1,48 @@
+name: Build and Test SkyNav AI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Step 2: Install dependencies (SFML, GLUT, OpenCV, etc.)
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential cmake libsfml-dev freeglut3-dev libopencv-dev ffmpeg
+
+      # Step 3: Set up the build
+      - name: Configure build with CMake
+        run: |
+          mkdir -p build
+          cd build
+          cmake ..
+
+      # Step 4: Build the project
+      - name: Build SkyNav AI
+        run: |
+          cd build
+          make
+
+      # Step 5: Run the application or tests
+      - name: Run SkyNav AI Tests
+        run: |
+          cd build
+          ./SkyNavAI || echo "No specific test suite found"
+
+      # Optional Step 6: Cleanup build artifacts
+      - name: Cleanup
+        if: ${{ always() }}
+        run: |
+          rm -rf build

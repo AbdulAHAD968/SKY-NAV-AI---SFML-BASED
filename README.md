@@ -125,3 +125,12 @@ If you encounter any errors, bugs, or have suggestions for improvements, feel fr
 You can contact me via email at: [ahad06074@gmail.com](mailto:ahad06074@gmail.com)
 
 Errors and omissions are accepted!
+
+## 🤖 Credits
+
+Built with ❤️ by a passionate team of developers. 
+The one and only [Abdul Ahad (Null and Void)], [Touqeer Ahmed (Mr. Snoop)] and [Mr. Faizan (The creative guy.)]
+Graphics powered by **SFML** and **GLUT**.  
+Algorithms inspired by cutting-edge pathfinding techniques.
+
+Feel free to **fork**, **contribute**, or **share your thoughts**! 🌟

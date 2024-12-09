@@ -130,7 +130,7 @@ Errors and omissions are accepted!
 
 Built with ❤️ by a passionate team of developers. 
 The one and only **Abdul Ahad (Null and Void)**, **Touqeer Ahmed (Mr. Snoop)** and **Mr. Faizan (The creative guy.)**
-Graphics powered by **SFML** and **GLUT**.  
+Graphics powered by **SFML** , **GLUT** and **OpenCv**.  
 Algorithms inspired by cutting-edge pathfinding techniques.
 
 Feel free to **fork**, **contribute**, or **share your thoughts**! 🌟

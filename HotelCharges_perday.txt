@@ -1,0 +1,11 @@
+Islamabad 5000
+NewYork 8000
+Paris 20000
+Tokyo 15000
+London 10000
+Singapore 18000
+HongKong 7500
+Berlin 11000
+Seoul 10500
+Amsterdam 17000
+Sydney 4500

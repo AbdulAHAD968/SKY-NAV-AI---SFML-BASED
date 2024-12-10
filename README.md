@@ -105,7 +105,7 @@ SkyNav AI is an advanced flight navigation tracker that visualizes and optimizes
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/SkyNavAI.git
+   git clone https://github.com/AbdulAHAD968/SkyNavAI.git
    cd SkyNavAI
 
 2. Command for execution:

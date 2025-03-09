@@ -1,5 +1,7 @@
 # 🌌 SkyNav AI - Flight Path Visualizer 🚀
 
+<img src="1.PNG" alt="Background Image">
+
 SkyNav AI is an advanced flight navigation tracker that visualizes and optimizes flight routes between multiple destinations. With powerful algorithms, custom-built data structures, and dynamic graphics, SkyNav AI delivers an interactive and personalized travel planning experience. 
 
 ---

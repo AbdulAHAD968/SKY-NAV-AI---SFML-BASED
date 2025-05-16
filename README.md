@@ -121,6 +121,10 @@ SkyNav AI is an advanced flight navigation tracker that visualizes and optimizes
    g++ -o test 1.cpp -I/usr/include/opencv4 `pkg-config --libs opencv4` -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
    ./test
 
+3. Admin Portal Password (Actually I have applied XOR Based encryption on Credentials with KEY-VALUE="key"):
+   ```bash
+   Username = BILLA , PASSWORD = 1234
+
 ---
 
 ## ⚠️ Errors and Omissions

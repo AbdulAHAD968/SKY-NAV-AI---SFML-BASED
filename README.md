@@ -1,12 +1,12 @@
 # 🌌 SkyNav AI - Flight Path Visualizer 🚀
 
+---
+
 <div>
   <img src="3.PNG" alt="Background Image">
 </div>
-<div>
-  <img src="1.PNG" alt="Background Image">
-  <img src="4.PNG" alt="Background Image">
-</div>
+
+---
 
 SkyNav AI is an advanced flight navigation tracker that visualizes and optimizes flight routes between multiple destinations. With powerful algorithms, custom-built data structures, and dynamic graphics, SkyNav AI delivers an interactive and personalized travel planning experience. 
 
@@ -29,6 +29,10 @@ SkyNav AI is an advanced flight navigation tracker that visualizes and optimizes
   - Edge styles represent flight duration.
 - **Example**: View flights from *New York (JFK)* to *Los Angeles (LAX)*, including both direct and connecting options.
 
+---
+
+<img src="1.PNG" alt="Background Image">
+  
 ---
 
 ### 2️⃣ **Flight Booking**
@@ -90,6 +94,8 @@ SkyNav AI is an advanced flight navigation tracker that visualizes and optimizes
 - **Pathfinding Enhancements**:
   - Bidirectional search for improved long-distance route efficiency.
 
+---
+<img src="4.PNG" alt="Background Image">
 ---
 
 ## 📂 **Project Files**
